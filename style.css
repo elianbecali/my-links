@@ -10,10 +10,10 @@ a, li {
 }
 
 body {
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background: linear-gradient(179.37deg, #151716 3.99%, rgba(21, 23, 22, 0.85) 99.46%);
+  background: linear-gradient(179.37deg, #151716, rgba(21, 23, 22, 0.85));
 }
 
 header {
