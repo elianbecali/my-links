@@ -1,17 +1,12 @@
 [
   {
-    "name": "Vídeo maneiro 1",
-    "url": "https://www.youtube.com/watch?v=BSYLWgPqr18",
+    "name": "Rocketseat",
+    "url": "https://app.rocketseat.com.br/me/elian-carlos-becali-aguiar-1567032394",
     "isHighlight": true
   },
   {
-    "name": "Vídeo maneiro",
-    "url": "https://www.youtube.com/watch?v=BSYLWgPqr18",
+    "name": "Métodos de array Javascript",
+    "url": "https://www.youtube.com/playlist?list=PLl7q0XQ6_uUTEkyP6hZC7m3465q522uKe",
     "isHighlight": false
-  },
-  {
-    "name": "Vídeo maneiro",
-    "url": "https://www.youtube.com/watch?v=BSYLWgPqr18",
-    "isHighlight": true
   }
 ]
