@@ -36,12 +36,14 @@ header p {
 
 main {
   flex: 1;
+  display: flex;
 }
 main div.container{
   min-width: 360px;
   min-height: 100%;
   max-width: 500px;
   margin: 0 auto;
+  flex: 1;
   background: url('https://elianbecali.github.io/my-links/assets/bg.svg');
   padding: 0 24px;
   padding-bottom: 24px;
