@@ -6,14 +6,10 @@
 * [💥 Demo 💥](#howToUse)
 * [👋 Say hello 👋](#sayHello)
 
-<p align="center">
-
 ![](https://img.shields.io/github/languages/count/elianbecali/my-links)
 ![](https://img.shields.io/github/languages/top/elianbecali/my-links)
 ![](https://img.shields.io/github/last-commit/elianbecali/my-links)
 ![](https://img.shields.io/github/repo-size/elianbecali/my-links)
-
-</p>
 
 <h2 id="about"> About 🎯 </h2>
 <p>
