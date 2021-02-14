@@ -1,4 +1,4 @@
-<h1 > :wrench: Work Tools :wrench: </h1>
+<h1 > 🔗 My Links 🔗 </h1>
 
 * [🎯 About 🎯](#about)
 * [📷 Preview 📷](#preview)
@@ -19,7 +19,7 @@
 <h2 id="preview"> Preview 📷 </h2>
 <p align="center">
     <kbd>
-        <img width="auto" height="auto" src="#">
+        <img width="auto" height="auto" src=".github/show.png">
     </kbd>
 </p>
 
@@ -32,7 +32,7 @@
 </ul>
 
 <h2 id="howExecute"> Demo 💥 </h2>
-<p>Obs: If you prefer, you may check the live version of the project by clicking </p>
+<p>See demo here <https://elianbecali.github.io/my-links/> </p>
 
 <h2 id ="sayHello">Say hello 👋</h2>
 
