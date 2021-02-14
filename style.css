@@ -42,7 +42,7 @@ main div.container{
   min-height: 100%;
   max-width: 500px;
   margin: 0 auto;
-  background: url('./my-links/assets/bg.svg');
+  background: url('https://elianbecali.github.io/my-links/assets/bg.svg');
   padding: 0 24px;
   border-radius: 50px 50px 0px 0px;
 }
