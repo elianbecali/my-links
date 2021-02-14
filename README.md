@@ -13,7 +13,7 @@
 
 <h2 id="about"> About 🎯 </h2>
 <p>
-  This project is about a app for save my links! 
+  This project is about a app for save my links, this app get of `links.json`! 
 </p>
 
 <h2 id="preview"> Preview 📷 </h2>
