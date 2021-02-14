@@ -32,7 +32,7 @@
 </ul>
 
 <h2 id="howExecute"> Demo 💥 </h2>
-<p>See demo here <https://elianbecali.github.io/my-links> </p>
+<p>See demo here ![https://elianbecali.github.io/my-links](https://elianbecali.github.io/my-links) </p>
 
 <h2 id ="sayHello">Say hello 👋</h2>
 
