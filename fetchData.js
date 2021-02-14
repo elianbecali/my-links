@@ -10,6 +10,5 @@ const container = document.getElementById('container-links');
       return;
     }
     container.innerHTML += `<li><a href='${link.url}'>${link.name}</a></li>`;
-    console.log(link.name, link.url);
   })
 })();
