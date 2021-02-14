@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vídeo maneiro 1",
+    "url": "https://www.youtube.com/watch?v=BSYLWgPqr18",
+    "isHighlight": true
+  },
+  {
+    "name": "Vídeo maneiro",
+    "url": "https://www.youtube.com/watch?v=BSYLWgPqr18",
+    "isHighlight": false
+  },
+  {
+    "name": "Vídeo maneiro",
+    "url": "https://www.youtube.com/watch?v=BSYLWgPqr18",
+    "isHighlight": true
+  }
+]
